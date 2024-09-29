@@ -1,7 +1,10 @@
 # LOGIN WITH NEXT
 
 ### Autor: Francisco Tulcán
-## Copy&Right: codegeeksuniverse
+## copyright: codegeeksuniverse
+> https://codegeeksuniverse.com/
+
+[Link resource]: (https://www.youtube.com/watch?v=WuqdNYmoU60)
 
 ## Objetive this Project
 
