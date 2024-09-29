@@ -1,3 +1,18 @@
+# LOGIN WITH NEXT
+
+### Autor: Francisco Tulcán
+## copyright: codegeeksuniverse
+> https://codegeeksuniverse.com/
+
+[Link resource]: (https://www.youtube.com/watch?v=WuqdNYmoU60)
+
+## Objetive this Project
+
+I created this project with the aim of practicing and learning how to use Next.js, Tailwind and Shadcn-UI, below you will see an image to visualize the finished interface.
+
+## Visualiced the interface 
+![image](https://github.com/user-attachments/assets/a86f28b7-99ad-45ec-a5f1-6842e47ac625)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
