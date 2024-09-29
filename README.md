@@ -1,3 +1,15 @@
+# LOGIN WITH NEXT
+
+### Autor: Francisco Tulcán
+## Copy&Right: codegeeksuniverse
+
+## Objetive this Project
+
+I created this project with the aim of practicing and learning how to use Next.js, Tailwind and Shadcn-UI, below you will see an image to visualize the finished interface.
+
+## Visualiced the interface 
+![image](https://github.com/user-attachments/assets/a86f28b7-99ad-45ec-a5f1-6842e47ac625)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,10 +46,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Objetive this Project
-
-I created this project with the aim of practicing and learning how to use NExt.js, Tailwind and Shadcn-UI, below you will see an image to visualize the finished interface.
-
-## Visualiced the interface 
-![image](https://github.com/user-attachments/assets/a86f28b7-99ad-45ec-a5f1-6842e47ac625)
